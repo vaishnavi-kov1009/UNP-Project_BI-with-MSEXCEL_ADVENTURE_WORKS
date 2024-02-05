@@ -6,4 +6,5 @@ The project serves as a practical, real-world scenario for learning and practici
 
 The Adventure Works project is widely known and utilized in the Microsoft ecosystem, providing a standardized platform for training and experimentation across various Microsoft technologies.
 PDF Link:https://drive.google.com/file/d/1f_169vRQTducCE1tJ5PjeMXDWyZTevfs/view?usp=drive_link
+
 EXCEL File:https://docs.google.com/spreadsheets/d/10HWy6Ga6wIHcClk_WZG-hV3LZ3XEwJf1/edit?usp=drive_link&ouid=109754110999600189311&rtpof=true&sd=true
